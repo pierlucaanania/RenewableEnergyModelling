@@ -17,7 +17,7 @@ parameters = {
     'I_mp_ref': 4.69,
     'V_mp_ref': 46.9,
     'alpha_sc': 0.004539,
-    'beta_oc': -0.22216,
+    'beta_oc': -0.222162,
     'a_ref': 2.6373,
     'I_L_ref': 5.114,
     'I_o_ref': 8.196e-10,
